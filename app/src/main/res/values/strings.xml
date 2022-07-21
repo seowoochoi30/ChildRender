@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChildRender</string>
+    <string name="question">What subject should we help you with?</string>
+</resources>

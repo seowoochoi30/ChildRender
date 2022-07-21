@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="40dp"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="137dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginVertical="60dp"
+        android:text="Donate"
+        android:backgroundTint="@color/green"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="As the COVID-19 pandemic continues to devastate Korea, as well as the rest of the world, the class gap between the rich and poor in Korea is on an alarming increase, which further alienates the many already-unprivileged people. The children of these families are thus rendered hopeless as their parents are unable to support them. Support classrooms and children that are in need all over Korea with financial aid. Lend a hand to students from poorer backgrounds get the necessary education they are deprived of and help near the goal of ending the inheritance of poverty."
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/screen_shot_2022_07_21_at_1_51_52_pm" />
+</LinearLayout>
