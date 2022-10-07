@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subjects">
+        <item> Korean </item>
+        <item> Mathematics </item>
+        <item> English </item>
+        <item> Social Studies </item>
+        <item> Science </item>
+        <item> Korean History </item>
+        <item> Ethics </item>
+        <item> Technology </item>
+        <item> Home Economics </item>
+        <item> Physical Education </item>
+        <item> Music </item>
+        <item> Art </item>
+    </string-array>
+</resources>
